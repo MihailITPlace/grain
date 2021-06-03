@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.4.0](https://www.github.com/grain-lang/grain/compare/@grain/compiler-v0.3.2...@grain/compiler-v0.4.0) (2021-06-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* **cli:** Split -g into --debug and --wat (#620)
+
+### Features
+
+* **cli:** Split -g into --debug and --wat ([#620](https://www.github.com/grain-lang/grain/issues/620)) ([79809bb](https://www.github.com/grain-lang/grain/commit/79809bb12592bdcb52fcb8301e7d4b64f35276e8))
+
 ### [0.3.2](https://www.github.com/grain-lang/grain/compare/@grain/compiler-v0.3.1...@grain/compiler-v0.3.2) (2021-05-29)
 
 
